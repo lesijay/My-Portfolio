@@ -3,3 +3,49 @@
     padding: 0;                     /*this block resets default browser box style*/
     box-sizing: border-box;
 }
+body{
+    background-color: #303133;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 1.5;
+    overflow: hidden;
+}
+.nav-bar{
+    color: whitesmoke;
+    padding:10px;
+    flex: static;
+}
+.nav-bar p{
+    font-weight: bold;
+    overflow: hidden;
+    display: inline;
+    font-size: 16px;
+}
+
+.dropdown-btn{
+    background-color:  #ed1a60;
+    display:inline-block;
+    width: 100px;
+    height: 40px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    list-style-type: none;
+    margin-left: 600px;
+}
+.dropdown-btn li{
+    margin-top:10px;
+    text-align: center;
+
+}
+.dropdown-btn li a{
+    text-decoration: none;
+    display: none;
+    color: whitesmoke;
+}
+.dropdown-btn:hover li a{
+    display: block;
+}
