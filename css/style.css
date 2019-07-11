@@ -1,0 +1,5 @@
+*{
+    margin: 0;
+    padding: 0;                     /*this block resets default browser box style*/
+    box-sizing: border-box;
+}
