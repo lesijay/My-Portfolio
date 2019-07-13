@@ -183,3 +183,30 @@ h2{
     text-align: center;
     text-transform: uppercase;
 }
+
+
+
+
+
+
+.input-area{
+    border: none;
+    border-bottom: 2px solid #eee;
+    margin: 10px 0 0px 0;
+    height: 100px;
+    padding-bottom: 0px;
+    padding-top:10px;
+    padding-left: 0px;
+    font-size: 13px;
+    box-shadow: none;
+    font-family: "Poppins", sans-serif;
+    width: 50%;
+
+
+}
+.contact-intro{
+    font-size: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
