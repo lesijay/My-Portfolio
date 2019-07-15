@@ -1,0 +1,16 @@
+{
+    "user":[
+        {
+            "name": "Ruth Camp",
+            "email": "ruthcamp@yahoo.com",
+            "message": "hey",
+            "id":1
+        },
+        {
+            "name": "Kabari Dogbaa",
+            "email": "kabaridogbaa@gmail.com",
+            "message": "just thought to say hi",
+            "id": 2
+        }
+    ]
+}
