@@ -74,6 +74,9 @@ body{
     font-style: bold;
     
 }
+.btn:hover{
+    opacity: 1;
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -211,7 +214,23 @@ tr:hover {
     background-color:  white;
 }
 
+.qualifications{
+    list-style-type: circle;
+    list-style-position: outside; 
+}
+.qualifications li a{
+    text-decoration: none;
+    text-align: center;
+    font-variant: small-caps;
+}
+.qualifications li a:hover{
+    color: #ed1a60;
+}
 
+.small{
+    font-size: 12px;
+    padding: 20px 0 0 0;
+}
 
 .input-area{
     border: none;
