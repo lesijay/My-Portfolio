@@ -85,6 +85,7 @@ body{
   }
 .dropdown-content a:hover{
     color: black;
+    background-color: #ddd;
 }
 .btn:hover{
     color: black;
@@ -135,6 +136,21 @@ h1{
     padding: 50px;
     color: #303133;
     margin: 0 auto;
+}
+.why-decagon-list{
+    width: 70%;
+    margin: 0 auto;
+    font-style: italic;
+    line-height: 25px;
+    font-size: 15px;
+    padding: 15px;
+}
+.why-decagon-list li{
+    margin:0 0 15px 15px;
+    
+}
+.why-decagon-list:hover{
+    background-color: whitesmoke;
 }
 .space{
     border: 1px;
