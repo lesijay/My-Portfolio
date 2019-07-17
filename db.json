@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ruth Camp",
+      "emailad": "ruthcamp@yahoo.com",
+      "message": "hey"
+    },
+    {
+      "id": 2,
+      "name": "Kabari Dogbaa",
+      "emailadd": "kabaridogbaa@gmail.com",
+      "message": "just thought to say hi"
+    },
+    {
+      "name": "Carl Kaka",
+      "emailad": "kaka@yahoo.com",
+      "message": "Hi, can we arrange a meet-up. thanks",
+      "id": 3
+    },
+    {
+      "name": "Ade Sina",
+      "emailad": "Adesina@totalfinaelf.com",
+      "message": "hope you don't mind i call you",
+      "id": 4
+    },
+    {
+      "name": "Hope Waddel",
+      "emailad": "hopewaddel@yahoo.com",
+      "message": "Can we see",
+      "id": 5
+    },
+    {
+      "name": "Lesi",
+      "emailad": "kkk",
+      "message": "hiiii",
+      "id": 6
+    },
+    {
+      "name": "Swiss Barigha",
+      "emailad": "barrysw@yahoo.com",
+      "message": "Hi Lesi,i would love to meet you.Thanks",
+      "id": 7
+    }
+  ]
+}
